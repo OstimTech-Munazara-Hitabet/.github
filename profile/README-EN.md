@@ -22,4 +22,4 @@ If you have any questions or suggestions, please contact me at poyrazavsever@gma
 
 ---
 
-Thank you, and I look forward to your contributions to our projects!
+Thank you.
