@@ -22,4 +22,4 @@ Herhangi bir soru veya öneriniz varsa, poyrazavsever@gmail.com mail adresi ile 
 
 ---
 
-Teşekkürler ve projelerimize katkıda bulunmak için sabırsızlanıyoruz!
+Teşekkürler.
