@@ -1,6 +1,6 @@
 # Müzakere ve Hitabet Topluluğu Yazılım Projeleri
 
-[![English](https://img.shields.io/badge/English-Click_here-blue.svg)](https://github.com/OstimTech-Munazara-Hitabet/.github/blob/main/profile/ReadmeEn.md) <!-- Buraya İngilizce versiyonun bağlantısını ekle -->
+[![English](https://github.com/OstimTech-Munazara-Hitabet/.github/blob/main/profile/README-EN.md) <!-- Buraya İngilizce versiyonun bağlantısını ekle -->
 
 Bu organizasyon, hitabet, iletişim, müzakere ve analitik düşünme yeteneklerini geliştirmek amacıyla oluşturulmuş projeleri barındırmaktadır. Tüm katılımcılar, projelerimizi geliştirmek ve bilgi paylaşımında bulunmak için davetlidir.
 
